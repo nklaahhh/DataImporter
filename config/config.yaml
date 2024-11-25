@@ -1,0 +1,6 @@
+database:
+  host: "localhost"
+  port: 5432
+  name: "data_importer_db"
+  user: "postgres"
+  password: "nikhila@123"
